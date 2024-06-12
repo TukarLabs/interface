@@ -27,7 +27,7 @@ const UniswapA = styled(ExternalLink)`
 export default function BrandedFooter() {
   return (
     <Row justify="center">
-      <UniswapA href={`https://uniswap.org/`}>
+      <UniswapA href={`https://tukar.xyz/`}>
         <Row gap={0.25}>
           <Logo />
           <ThemedText.Caption>

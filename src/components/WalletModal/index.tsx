@@ -395,9 +395,9 @@ export default function WalletModal({
                 <ThemedText.Black fontSize={14}>
                   <Trans>
                     By connecting a wallet, you agree to Tukar Labs’{' '}
-                    <ExternalLink href="https://uniswap.org/terms-of-service/">Terms of Service</ExternalLink> and
+                    <ExternalLink href="https://tukar.xyz/terms-of-service/">Terms of Service</ExternalLink> and
                     acknowledge that you have read and understand the Uniswap{' '}
-                    <ExternalLink href="https://uniswap.org/disclaimer/">Protocol Disclaimer</ExternalLink>.
+                    <ExternalLink href="https://tukar.xyz/disclaimer/">Protocol Disclaimer</ExternalLink>.
                   </Trans>
                 </ThemedText.Black>
               </AutoRow>

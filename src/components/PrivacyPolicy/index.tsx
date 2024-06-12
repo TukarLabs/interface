@@ -124,12 +124,12 @@ export function PrivacyPolicy() {
       <AutoColumn gap="16px">
         <AutoColumn gap="8px" style={{ width: '100%' }}>
           <StyledExternalCard>
-            <ExternalLink href={'https://uniswap.org/terms-of-service'}>
+            <ExternalLink href={'https://tukar.xyz'}>
               <RowBetween>
                 <AutoRow gap="4px">
                   <Info size={20} />
                   <ThemedText.Main fontSize={14} color={'primaryText1'}>
-                    <Trans>Uniswap Labs&apos; Terms of Service</Trans>
+                    <Trans>Tukar Labs&apos; Terms of Service</Trans>
                   </ThemedText.Main>
                 </AutoRow>
                 <StyledLinkOut size={20} />
@@ -137,7 +137,7 @@ export function PrivacyPolicy() {
             </ExternalLink>
           </StyledExternalCard>
           <StyledExternalCard>
-            <ExternalLink href={'https://uniswap.org/disclaimer/'}>
+            <ExternalLink href={'https://tukar.xyz/'}>
               <RowBetween>
                 <AutoRow gap="4px">
                   <Info size={20} />

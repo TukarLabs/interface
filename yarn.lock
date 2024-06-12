@@ -5237,15 +5237,15 @@
     "@typescript-eslint/types" "4.30.0"
     "eslint-visitor-keys" "^2.0.0"
 
+"@uniswap/default-token-list@^11.19.0":
+  "integrity" "sha512-H/YLpxeZUrzT4Ki8mi4k5UiadREiLHg7WUqCv0Qt/VkOjX2mIBhrxCj1Wh61/J7lK0XqOjksfpm6RG1+YErPoQ=="
+  "resolved" "https://registry.npmjs.org/@uniswap/default-token-list/-/default-token-list-11.19.0.tgz"
+  "version" "11.19.0"
+
 "@uniswap/default-token-list@^2.0.0":
   "integrity" "sha512-vFPWoGzDjHP4i2l7yLaober/lZMmzOZXXirVF8XNyfNzRxgmYCWKO6SzKtfEUwxpd3/KUebgdK55II4Mnak62A=="
   "resolved" "https://registry.npmjs.org/@uniswap/default-token-list/-/default-token-list-2.2.0.tgz"
   "version" "2.2.0"
-
-"@uniswap/default-token-list@^3.0.0":
-  "integrity" "sha512-t0H96s1Mx2ga6cGMj/wP/3NWdX4c9yZFd0ydiTOWLhWf1i5RjhWWND/ZTdn8QhmNsdHlhrGsWrEU62xoAY11bw=="
-  "resolved" "https://registry.npmjs.org/@uniswap/default-token-list/-/default-token-list-3.0.0.tgz"
-  "version" "3.0.0"
 
 "@uniswap/governance@^1.0.2":
   "integrity" "sha512-L7BzdI/asAINB2F6EvJuQcg5YhykNeEfZxJrn2RPIVvx+9A9u+opDuqnBK4SYnanrsr3UEX1NwWXwDHmyw2TjQ=="
@@ -10436,6 +10436,7 @@
     "bignumber.js" "~9.0.0"
 
 "ethereumjs-abi@git+https://github.com/ethereumjs/ethereumjs-abi.git":
+  "integrity" "sha512-Tx0r/iXI6r+lRsdvkFDlut0N08jWMnKRZ6Gkq+Nmw75lZe4e6o3EkSnkaBP5NF6+m5PTGAr9JP43N3LyeoglsA=="
   "version" "0.6.8"
   dependencies:
     "bn.js" "^4.11.8"
@@ -13342,6 +13343,7 @@
     "jest-snapshot" "^26.6.2"
 
 "jest-resolve@*":
+  "integrity" "sha512-tRAz2bwraHufNp+CCmAD8ciyCpXCs1NQxB5EJAmtCFy6BN81loFEGWKzYu26Y62lAJJe4X4jg36Kf+NsQyiStQ=="
   "version" "26.6.0"
   dependencies:
     "@jest/types" "^26.6.0"
@@ -21492,6 +21494,7 @@
     "typedarray-to-buffer" "^3.1.5"
 
 "ws@*":
+  "integrity" "sha512-xzyu3hFvomRfXKH8vOFMU3OguG6oOvhXMo3xsGy3xWExqaM2dxBbVxuD99O7m3ZUFMvvscsZDqxfgMaRr/Nr1g=="
   "version" "7.4.5"
 
 "ws@^5.1.1":
